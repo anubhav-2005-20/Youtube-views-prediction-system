@@ -2,8 +2,6 @@
 
 A machine learning project focused on predicting the number of views a YouTube video may receive. The system can be used to explore how video-related information and historical data may help estimate video performance.
 
-> **Note:** Update this README to match the actual implementation in the repository. The repository's public README currently contains only the project title, so the exact dataset, model, features, and run commands could not be verified.
-
 ## Project Overview
 
 The goal of a YouTube views prediction system is to estimate video view counts from available video data. Such a project typically involves preparing a dataset, exploring relevant patterns, training a regression model, and evaluating its predictions.
